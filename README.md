@@ -6,7 +6,7 @@
   ## Description
   Pizza Hunt is a social apps that allows you to post your favorite pizzas and lets people comment on them, as well as lets you comment on the pizzas that other people have already posted.
 
-  [Link](https://lepizza-hunt.herokuapp.com/pizza?id=63222e129434d24403a1d9c9)
+  [Link](https://lepizza-hunt.herokuapp.com/)
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Emilioeth.Pizza+Hunt&left_color=blue&right_color=blue)
 
